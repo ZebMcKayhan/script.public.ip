@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.public.ip" name="Public IP" version="1.0.0" provider-name="Khaled">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.requests" version="2.12.4"/>
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Get information of public ip</summary>
+		<description lang="en">Get public ip, city, country, hostname</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
+		<source>https://github.com/zag2me/script.hello.world</source>
+		<website>Kodi.tv</website>
+		<news>Updated the addon to use new addon.xml metadata</news>
+	</extension>
+</addon>
