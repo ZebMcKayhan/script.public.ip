@@ -11,11 +11,13 @@
 		<platform>all</platform>
 		<summary lang="en">Get information of public ip</summary>
 		<description lang="en">Get public ip, city, country, hostname</description>
-		<license>GNU General Public License, v2</license>
+		<license>MIT License</license>
 		<language></language>
-		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
-		<source>https://github.com/zag2me/script.hello.world</source>
-		<website>Kodi.tv</website>
-		<news>Updated the addon to use new addon.xml metadata</news>
+		<source>https://github.com/khaledsaikat/script.public.ip</source>
+		<website>http://khaledsaikat.com</website>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+		<news>Initial release.</news>
 	</extension>
 </addon>
