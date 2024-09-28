@@ -19,10 +19,12 @@
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
-		<news>  [1.1.0]
-			Updated for Kodi Omega (python 3)
+		<news>  
+[v1.1.0]
+* Updated for Kodi Omega (python 3)
 			
-			[1.0.0]
-			Initial release</news>
+[v1.0.0]
+* Initial release
+		</news>
 	</extension>
 </addon>
