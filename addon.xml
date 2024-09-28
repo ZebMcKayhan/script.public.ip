@@ -19,6 +19,6 @@
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
-		<news>Initial release.</news>
+		<news>Initial release</news>
 	</extension>
 </addon>
