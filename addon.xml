@@ -14,11 +14,15 @@
 		<description lang="en">Get public ip, city, country, hostname</description>
 		<license>MIT License</license>
 		<language></language>
-		<source>https://github.com/khaledsaikat/script.public.ip</source>
+		<source>https://github.com/ZebMcKayhan/script.public.ip</source>
 		<website>http://khaledsaikat.com</website>
 		<assets>
 			<icon>icon.png</icon>
 		</assets>
-		<news>Initial release</news>
+		<news>  [1.1.0]
+			Updated for Kodi Omega (python 3)
+			
+			[1.0.0]
+			Initial release</news>
 	</extension>
 </addon>
