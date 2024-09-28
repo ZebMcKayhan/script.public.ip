@@ -2,7 +2,7 @@
 <addon id="script.public.ip" name="Public IP" version="1.0.0" provider-name="Khaled">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests" version="2.12.4"/>
+		<import addon="script.module.requests" version="2.31.0"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
